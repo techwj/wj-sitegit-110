@@ -1,0 +1,59 @@
+{
+  "siteId": "changes-after-returning",
+  "generatedAt": "2026-06-04T11:33:47.925132",
+  "categories": [
+    "beginner-changes-after-returning",
+    "advanced-changes-after-returning",
+    "tips-changes-after-returning",
+    "history-changes-after-returning",
+    "trending-changes-after-returning",
+    "tutorials-changes-after-returning"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-changes-after-returning",
+      "category_name": "Beginner Changes After Returning"
+    },
+    {
+      "category_slug": "advanced-changes-after-returning",
+      "category_name": "Advanced Changes After Returning"
+    },
+    {
+      "category_slug": "tips-changes-after-returning",
+      "category_name": "Changes After Returning Tips"
+    },
+    {
+      "category_slug": "history-changes-after-returning",
+      "category_name": "Changes After Returning History"
+    },
+    {
+      "category_slug": "trending-changes-after-returning",
+      "category_name": "Trending Changes After Returning"
+    },
+    {
+      "category_slug": "tutorials-changes-after-returning",
+      "category_name": "Changes After Returning Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "changes-after-returning",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Changes After Returning Central",
+    "articles_per_row": 4
+  }
+}

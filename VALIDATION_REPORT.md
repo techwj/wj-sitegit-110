@@ -1,0 +1,88 @@
+# Validation Report - changes-after-returning
+
+Generated: 2026-06-04T11:33:47.924975
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Changes After Returning
+- ✓ Article word count OK: Beginner Changes After Returning: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Changes After Returning
+- ✓ Article word count OK: Beginner Changes After Returning Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Changes After Returning
+- ✓ Article word count OK: Beginner Changes After Returning in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Changes After Returning
+- ✓ Article word count OK: Common Mistakes in Beginner Changes After Returning
+- ✓ Article word count OK: Beginner Changes After Returning for Beginners
+- ✓ Article word count OK: Advanced Beginner Changes After Returning Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Changes After Returning
+- ✓ Article word count OK: Advanced Changes After Returning: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Changes After Returning
+- ✓ Article word count OK: Advanced Changes After Returning Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Changes After Returning
+- ✓ Article word count OK: Advanced Changes After Returning in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Changes After Returning
+- ✓ Article word count OK: Common Mistakes in Advanced Changes After Returning
+- ✓ Article word count OK: Advanced Changes After Returning for Beginners
+- ✓ Article word count OK: Advanced Advanced Changes After Returning Techniques
+- ✓ Article word count OK: The Ultimate Guide to Changes After Returning Tips
+- ✓ Article word count OK: Changes After Returning Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Changes After Returning Tips
+- ✓ Article word count OK: Changes After Returning Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Changes After Returning Tips
+- ✓ Article word count OK: Changes After Returning Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Changes After Returning Tips
+- ✓ Article word count OK: Common Mistakes in Changes After Returning Tips
+- ✓ Article word count OK: Changes After Returning Tips for Beginners
+- ✓ Article word count OK: Advanced Changes After Returning Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Changes After Returning History
+- ✓ Article word count OK: Changes After Returning History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Changes After Returning History
+- ✓ Article word count OK: Changes After Returning History Tips and Best Practices
+- ✓ Article word count OK: The History of Changes After Returning History
+- ✓ Article word count OK: Changes After Returning History in 2026: Current Trends
+- ✓ Article word count OK: Future of Changes After Returning History
+- ✓ Article word count OK: Common Mistakes in Changes After Returning History
+- ✓ Article word count OK: Changes After Returning History for Beginners
+- ✓ Article word count OK: Advanced Changes After Returning History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Changes After Returning
+- ✓ Article word count OK: Trending Changes After Returning: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Changes After Returning
+- ✓ Article word count OK: Trending Changes After Returning Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Changes After Returning
+- ✓ Article word count OK: Trending Changes After Returning in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Changes After Returning
+- ✓ Article word count OK: Common Mistakes in Trending Changes After Returning
+- ✓ Article word count OK: Trending Changes After Returning for Beginners
+- ✓ Article word count OK: Advanced Trending Changes After Returning Techniques
+- ✓ Article word count OK: The Ultimate Guide to Changes After Returning Tutorials
+- ✓ Article word count OK: Changes After Returning Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Changes After Returning Tutorials
+- ✓ Article word count OK: Changes After Returning Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Changes After Returning Tutorials
+- ✓ Article word count OK: Changes After Returning Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Changes After Returning Tutorials
+- ✓ Article word count OK: Common Mistakes in Changes After Returning Tutorials
+- ✓ Article word count OK: Changes After Returning Tutorials for Beginners
+- ✓ Article word count OK: Advanced Changes After Returning Tutorials Techniques
+- ✓ Ad configuration validated
